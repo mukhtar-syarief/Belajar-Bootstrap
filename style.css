@@ -4,13 +4,11 @@ body{
     font-family: "Roboto Slab", serif;
 }
 .jumbotron{
+    font-family: 'Courier New', Courier, monospace;
     color: white;
     background-image: url("D:/Belajar/Belajar html/carbon_fibre.png");
 }
 .footer{
     line-height: 50px;
     margin-bottom: 0;
-}
-a{
-    color: white;
 }
